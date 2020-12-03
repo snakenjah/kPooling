@@ -3,7 +3,7 @@
     "description": "Customizable Object Pooling for Unity.",
     "version": "0.1.0",
     "unity": "2019.3",
-    "displayName": "kPooling",
+    "displayName": "IF_Pooling",
     "dependencies": {
     }
 }
